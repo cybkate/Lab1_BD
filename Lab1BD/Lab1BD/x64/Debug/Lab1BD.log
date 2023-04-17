@@ -1,0 +1,11 @@
+﻿  Lab1BD.cpp
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(16,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(19,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(94,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(201,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(215,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(250,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(360,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework\Lab1BD\Lab1BD\Lab1BD.cpp(379,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab1BD.vcxproj -> D:\homework\Lab1BD\x64\Debug\Lab1BD.exe
